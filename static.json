@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "/*" : {
+      "X-Author" : "ivolobuev",
+      "Access-Control-Allow-Origin" : "*"
+    }
+  }
+
+}
