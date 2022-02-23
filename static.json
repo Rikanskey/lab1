@@ -1,7 +1,6 @@
 {
   "root": "public",
   "clean_urls": true,
-  "https_only": true,
   "headers": {
     "/**" : {
       "X-Author" : "ivolobuev",
